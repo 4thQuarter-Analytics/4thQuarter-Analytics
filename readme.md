@@ -1,6 +1,6 @@
 # 4thQuarter-Analytics
 
-### Features
+### 🌟 Features 🌟
   - AI based fantasy points prediction
   - AI based player selection
   - 🌈 and many more coming 
