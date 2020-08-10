@@ -1,4 +1,4 @@
-# 4thQuarter-Analytics
+# [4thQuarter-Analytics](https://github.com/4thQuarter-Analytics)
 
 ### 🌟 Features 🌟
   - AI based fantasy points prediction
