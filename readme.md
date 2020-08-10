@@ -5,4 +5,4 @@
   - AI based player selection
   - 🌈 and many more coming 
 
-Come and visit us at [4thquarter-analytics.com ](http://4thquarter-analytics.com) and follow us [@4thquarterCom ](https://twitter.com/4thquarterCom)
+Come and visit us at [4thquarter-analytics.com ](http://4thquarter-analytics.com), follow us [@4thquarterCom](https://twitter.com/4thquarterCom) and fork us [4thQuarter-Analytics](https://github.com/4thQuarter-Analytics)
