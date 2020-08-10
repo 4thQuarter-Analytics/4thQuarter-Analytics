@@ -7,7 +7,7 @@
 
 Come and visit us @4thquarter-analytics.com 
 
-Follow us @twitter 
+Follow us @4thquarterCom 
 
    [4thquarter-analytics.com]: <http://4thquarter-analytics.com>
    [4thquarterCom]: <https://twitter.com/4thquarterCom>
